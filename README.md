@@ -29,4 +29,4 @@ DELETE	/posts/:id	Delete a blog post
 📜 License
 This project is licensed under the MIT License.
 
-Project Host: blogster.lovestoblog.com
+Project Domain : blogster.lovestoblog.com
